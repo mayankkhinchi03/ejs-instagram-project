@@ -13,6 +13,8 @@ A beginner-friendly Instagram-style web application built using Node.js, Express
 - Express.js
 - EJS
 - HTML
+- CSS
+- js
 
 ## Installation
 
